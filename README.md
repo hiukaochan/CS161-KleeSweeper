@@ -1,4 +1,4 @@
-# CS161-KleeSweeper
+# CS161 Solo Project: KleeSweeper
 Author: hiukaochan
 
 This is a Genshin Impact fangame based on the famous game Minesweeper from Microsoft using C++ and Raylib GUI Library for CS161's solo project at HCMUS. All the graphics were drawn by the author - Thanh Hieu. The main character in KleeSweeper is called Klee who in the original game’s story is well known for the danger she presents because of the bombs she put around Mondstadt (a region in Genshin’s world). Therefore, her story is suitable for the Minesweeper remade game. 
